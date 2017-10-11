@@ -1,0 +1,6 @@
+/* PENGHUNI */
+
+OP Bayaran: presiden
+Kontak: presiden di network freenode atau via kanal #ubuntu-indonesia
+Distro: Ubuntu
+Lokasi: Pasuruan
