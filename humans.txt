@@ -10,3 +10,10 @@ Kontak: alunux di network freenode atau via kanal #ubuntu-indonesia, #fedora-id,
 Distro: Fedora
 Lokasi: Malang dan Kendari
 Blog: fadlun[dot]me
+
+Nick: dindinG41TR3
+Kontak: dindinG41TR3 di network freenode atau via kanal #ubuntu-indonesia, #xentaos
+Distro: Xenta OS
+Lokasi: Jakarta
+E-Mail : root@dev.xentaos.org
+Facebook : fb.com/dindinG41TR3
