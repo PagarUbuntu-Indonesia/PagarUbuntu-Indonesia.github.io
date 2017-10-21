@@ -1,8 +1,11 @@
 # Github Pages #ubuntu-indonesia
 
-Repositori Github Pages untuk #ubuntu-indonesia. Sementara hanya berisi halaman
-yang me-*redirect* ke log kanal.
+Github Pages #ubuntu-indonesia.
 
 # Lisensi
 
-MIT dan UNLICENSE, lihat [MIT-LICENSE](MIT-LICENSE) dan [UNLICENSE](UNLICENSE)
+MIT dan UNLICENSE, lihat file [MIT-LICENSE](MIT-LICENSE) dan [UNLICENSE](UNLICENSE)
+
+# Meme
+
+![Meme galau](meme-galau.jpg)
