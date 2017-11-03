@@ -9,3 +9,4 @@ MIT dan UNLICENSE, lihat file [MIT-LICENSE](MIT-LICENSE) dan [UNLICENSE](UNLICEN
 # Meme
 
 ![Meme galau](meme-galau.jpg)
+![Not sure](ok.png)
