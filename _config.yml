@@ -1,0 +1,9 @@
+judul: "#ubuntu-indonesia"
+
+# Diabaikan
+exclude:
+  - .gitignore
+  - catatan
+  - CNAME
+  - icomoon-selection.json
+  - README.md

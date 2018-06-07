@@ -1,0 +1,33 @@
+{% for penulis in site.data.penulis %}
+  {% if penulis.nick == page.penulis %}
+
+  <small>Ditulis oleh:
+
+  {% if penulis.website != nil %}
+    <a href="{{ penulis.website }}">  
+  {% endif %}
+  
+  {% if penulis.nama %}
+    <b>{{ penulis.nama }}</b>
+  {% else %}
+    <b>{{ penulis.nick }}</b>
+  {% endif %}
+  
+  {% if penulis.website != nil %}</a>{% endif %}
+
+  {% if penulis.github != nil and penulis.github != "" %}
+    , <a href="https://github.com/{{ penulis.github }}">
+      @{{ penulis.github }} di Github
+    </a>
+  {% endif %}
+  {% if penulis.twitter %}
+    , <a href="https://twitter.com/{{ penulis.twitter }}">
+      @{{ penulis.twitter }} di Twitter
+    </a>
+  {% endif %}
+
+  </small>
+  
+  {% endif %}
+{% endfor %}
+</div>
