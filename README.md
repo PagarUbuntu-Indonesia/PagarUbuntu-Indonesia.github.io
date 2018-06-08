@@ -2,7 +2,7 @@
 
 Github Pages #ubuntu-indonesia.
 
-# Kolaborasi Isi Bkog
+# Kolaborasi BLog
 
 ### Caranya
 
