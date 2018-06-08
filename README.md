@@ -2,9 +2,8 @@
 
 Github Pages #ubuntu-indonesia.
 
-# Kolaborasi BLog
 
-### Caranya
+# Kolaborasi Blog
 
 Tulis konten blog di direktori `_posts` dengan format nama file:
 ```
@@ -27,9 +26,11 @@ Isi konten dengan format markdown
 
 > __Catatan:__ Jangan lupa tambahkan penulis ke `_data/penulis.yml`
 
+
 # Lisensi
 
 MIT dan UNLICENSE, lihat file [MIT-LICENSE](MIT-LICENSE) dan [UNLICENSE](UNLICENSE)
+
 
 # Meme
 
