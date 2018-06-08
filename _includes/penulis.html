@@ -16,12 +16,12 @@
   {% if penulis.website != nil %}</a>{% endif %}
 
   {% if penulis.github != nil and penulis.github != "" %}
-    , <a href="https://github.com/{{ penulis.github }}">
+      &ndash; <a href="https://github.com/{{ penulis.github }}">
       @{{ penulis.github }} di Github
     </a>
   {% endif %}
   {% if penulis.twitter %}
-    , <a href="https://twitter.com/{{ penulis.twitter }}">
+      &ndash; <a href="https://twitter.com/{{ penulis.twitter }}">
       @{{ penulis.twitter }} di Twitter
     </a>
   {% endif %}
